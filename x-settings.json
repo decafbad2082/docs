@@ -1,0 +1,1492 @@
+{
+  "version": "1.14.22.1",
+  "date": 1662144979206,
+  "Conf": {
+    "Redirect to HTTPS": true,
+    "JSON Index": true,
+    "Use 4chan X Catalog": true,
+    "Index Refresh Notifications": false,
+    "Follow Cursor": true,
+    "Open Threads in New Tab": true,
+    "External Catalog": false,
+    "Catalog Links": false,
+    "Announcement Hiding": true,
+    "Desktop Notifications": true,
+    "404 Redirect": true,
+    "Archive Report": true,
+    "Exempt Archives from Encryption": true,
+    "Keybinds": true,
+    "Time Formatting": true,
+    "Relative Post Dates": true,
+    "Relative Date Title": true,
+    "Comment Expansion": true,
+    "File Info Formatting": true,
+    "Thread Expansion": true,
+    "Index Navigation": false,
+    "Reply Navigation": false,
+    "Unique ID and Capcode Navigation": false,
+    "Custom Board Titles": true,
+    "Persistent Custom Board Titles": false,
+    "Show Updated Notifications": true,
+    "Color User IDs": true,
+    "Count Posts by ID": true,
+    "Remove Spoilers": false,
+    "Reveal Spoilers": false,
+    "Normalize URL": true,
+    "Work around CORB Bug": true,
+    "Disable Autoplaying Sounds": false,
+    "Disable Native Extension": true,
+    "Enable Native Flash Embedding": true,
+    "Linkify": true,
+    "Link Title": true,
+    "Cover Preview": true,
+    "Embedding": true,
+    "Auto-embed": false,
+    "Floating Embeds": false,
+    "Anonymize": false,
+    "Filter": true,
+    "Filtered Backlinks": false,
+    "Filter in Native Catalog": true,
+    "MD5 Quick Filter Notifications": true,
+    "Recursive Hiding": true,
+    "Thread Hiding Buttons": true,
+    "Reply Hiding Buttons": true,
+    "Stubs": true,
+    "Image Expansion": true,
+    "Image Hover": true,
+    "Image Hover in Catalog": true,
+    "Gallery": true,
+    "Fullscreen Gallery": false,
+    "PDF in Gallery": false,
+    "Sauce": true,
+    "WEBM Metadata": true,
+    "Reveal Spoiler Thumbnails": false,
+    "Replace GIF": false,
+    "Replace JPG": false,
+    "Replace PNG": false,
+    "Replace WEBM": false,
+    "Image Prefetching": true,
+    "Fappe Tyme": true,
+    "Werk Tyme": true,
+    "Autoplay": true,
+    "Restart when Opened": false,
+    "Show Controls": true,
+    "Click Passthrough": false,
+    "Allow Sound": true,
+    "Mouse Wheel Volume": true,
+    "Loop in New Tab": true,
+    "Volume in New Tab": true,
+    "Menu": true,
+    "Report Link": true,
+    "Copy Text Link": true,
+    "Thread Hiding Link": true,
+    "Reply Hiding Link": true,
+    "Delete Link": true,
+    "Archive Link": true,
+    "Edit Link": true,
+    "Download Link": false,
+    "Thread Updater": true,
+    "Unread Count": true,
+    "Quoted Title": false,
+    "Hide Unread Count at (0)": false,
+    "Unread Favicon": true,
+    "Unread Line": true,
+    "Remember Last Read Post": true,
+    "Scroll to Last Read Post": true,
+    "Unread Line in Index": false,
+    "Remove Thread Excerpt": false,
+    "Thread Stats": true,
+    "IP Count in Stats": true,
+    "Page Count in Stats": true,
+    "Updater and Stats in Header": true,
+    "Thread Watcher": true,
+    "Fixed Thread Watcher": true,
+    "Persistent Thread Watcher": false,
+    "Mark New IPs": false,
+    "Reply Pruning": true,
+    "Prune All Threads": false,
+    "Quick Reply": true,
+    "Persistent QR": false,
+    "Auto Hide QR": true,
+    "Open Post in New Tab": true,
+    "Remember QR Size": false,
+    "Remember Spoiler": false,
+    "Randomize Filename": false,
+    "Show New Thread Option in Threads": true,
+    "Show Upload Progress": true,
+    "Cooldown": true,
+    "Posting Success Notifications": true,
+    "Auto-load captcha": false,
+    "Post on Captcha Completion": false,
+    "Force Noscript Captcha": false,
+    "Pass Link": false,
+    "Quote Backlinks": true,
+    "OP Backlinks": true,
+    "Bottom Backlinks": false,
+    "Quote Inlining": true,
+    "Inline Cross-thread Quotes Only": false,
+    "Quote Hash Navigation": false,
+    "Forward Hiding": true,
+    "Quote Previewing": true,
+    "Quote Highlighting": true,
+    "Resurrect Quotes": true,
+    "Remember Your Posts": true,
+    "Mark Quotes of You": true,
+    "Highlight Posts Quoting You": true,
+    "Highlight Own Posts": true,
+    "Mark OP Quotes": true,
+    "Mark Cross-thread Quotes": true,
+    "Quote Threading": true,
+    "Fit width": true,
+    "Fit height": false,
+    "Scroll into view": true,
+    "Expand spoilers": true,
+    "Expand videos": true,
+    "Expand from here": false,
+    "Expand thread only": false,
+    "Advance on contract": false,
+    "Hide Thumbnails": false,
+    "Fit Width": true,
+    "Fit Height": true,
+    "Stretch to Fit": false,
+    "Scroll to Post": true,
+    "Slide Delay": 6,
+    "Default Volume": 0.67,
+    "Current Board": false,
+    "Auto Update Thread Watcher": true,
+    "Auto Watch": true,
+    "Auto Watch Reply": true,
+    "Auto Prune": false,
+    "Show Page": true,
+    "Show Unread Count": true,
+    "Show Site Prefix": false,
+    "Require OP Quote Link": false,
+    "general": "",
+    "postID": "# Highlight dubs on [s4s]:\n#/(\\d)\\1$/;highlight;top:no;boards:s4s",
+    "name": "# Filter any namefags:\n#/^(?!Anonymous$)/",
+    "uniqueID": "# Filter a specific ID:\n#/Txhvk1Tl/",
+    "tripcode": "# Filter any tripfag\n#/^!/",
+    "capcode": "# Set a custom class for mods:\n#/Mod$/;highlight:mod;op:yes\n# Set a custom class for admins:\n#/Admin$/;highlight:admin;op:yes",
+    "pass": "# Filter anyone using since4pass:\n#/./",
+    "email": "",
+    "subject": "# Filter Generals on /v/:\n#/general/i;boards:v;op:only",
+    "comment": "# Filter Stallman copypasta on /g/:\n#/what you're refer+ing to as linux/i;boards:g\n# Filter posts with 20 or more quote links:\n#/(?:>>\\d(?:(?!>>\\d)[^])*){20}/\n# Filter posts like T H I S / H / I / S:\n#/^>?\\s?\\w\\s?(\\w)\\s?(\\w)\\s?(\\w).*$[\\s>]+\\1[\\s>]+\\2[\\s>]+\\3/im",
+    "flag": "",
+    "filename": "",
+    "dimensions": "# Highlight potential wallpapers:\n#/1920x1080/;op:yes;highlight;top:no;boards:w,wg",
+    "filesize": "",
+    "MD5": "",
+    "sauces": "# Known filename formats:\nhttps://www.pixiv.net/member_illust.php?mode=medium&illust_id=%$1;regexp:/^(\\d+)_p\\d+/\njavascript:void(open(\"https://www.deviantart.com/\"+%$1.replace(/_/g,\"-\")+\"/art/\"+parseInt(%$2,36)));regexp:/^\\w+_by_(\\w+)[_-]d([\\da-z]{6})\\b/\nhttps://imgur.com/%$1;regexp:/^(?![a-zA-Z][a-z]{6})(?![A-Z]{7})(?!\\d{7})([\\da-zA-Z]{7})(?: \\(\\d+\\))?\\.\\w+$/\nhttps://flickr.com/photo.gne?id=%$1;regexp:/^(\\d+)_[\\da-f]{10}(?:_\\w)*\\b/\nhttps://www.facebook.com/photo.php?fbid=%$1;regexp:/^\\d+_(\\d+)_\\d+_[no]\\b/\n\n# Reverse image search:\nhttps://www.google.com/searchbyimage?image_url=%IMG&safe=off\nhttps://yandex.com/images/search?rpt=imageview&url=%IMG\n#//tineye.com/search?url=%IMG\n#//www.bing.com/images/search?q=imgurl:%IMG&view=detailv2&iss=sbi#enterInsights\n\n# Specialized reverse image search:\n//iqdb.org/?url=%IMG\nhttps://trace.moe/?auto&url=%IMG;text:wait\n#//3d.iqdb.org/?url=%IMG\n#//saucenao.com/search.php?url=%IMG\n\n# \"View Same\" in archives:\nhttp://eye.swfchan.com/search/?q=%name;types:swf\n#https://desuarchive.org/_/search/image/%sMD5/\n#https://archive.4plebs.org/_/search/image/%sMD5/\n#https://boards.fireden.net/_/search/image/%sMD5/\n#https://foolz.fireden.net/_/search/image/%sMD5/\n\n# Other tools:\n#http://exif.regex.info/exif.cgi?imgurl=%URL\n#//imgops.com/start?url=%URL;types:gif,jpg,png\n#//www.gif-explode.com/%URL;types:gif",
+    "werk": false,
+    "Custom CSS": true,
+    "Index Mode": "paged",
+    "Previous Index Mode": "paged",
+    "Index Size": "small",
+    "Show Replies": true,
+    "Catalog Hover Expand": true,
+    "Catalog Hover Toggle": true,
+    "Pin Watched Threads": false,
+    "Anchor Hidden Threads": true,
+    "Refreshed Navigation": false,
+    "Fixed Header": true,
+    "Header auto-hide": false,
+    "Header auto-hide on scroll": false,
+    "Bottom Header": false,
+    "Centered links": false,
+    "Header catalog links": false,
+    "Bottom Board List": true,
+    "Shortcut Icons": true,
+    "Custom Board Navigation": true,
+    "archiveLists": "https://4chenz.github.io/archives.json/archives.json",
+    "lastarchivecheck": 1662054709590,
+    "archiveAutoUpdate": true,
+    "externalCatalogURLs": "//catalog.neet.tv/%board/;boards:4chan.org:3,a,adv,an,asp,biz,c,cgl,ck,cm,co,diy,f,fa,fit,g,gd,his,i,int,jp,k,lgbt,lit,m,mlp,mu,n,news,o,out,p,po,pol,s4s,sci,sp,tg,toy,trv,tv,v,vg,vip,vp,vr,w,wg,wsg,wsr,x",
+    "boardnav": "[ toggle-all ]\n[current-index-text:\"Index\"\ncurrent-catalog-text:\"Catalog\"\ncurrent-expired-text:\"Expired\"\ncurrent-archive-text:\"Archive\"]\n[external-text:\"FAQ\",\"https://github.com/ccd0/4chan-x/wiki/Frequently-Asked-Questions\"]",
+    "QR.personas": "#options:\"sage\";boards:jp;always",
+    "sjisPreview": false,
+    "jsWhitelist": "http://s.4cdn.org\nhttps://s.4cdn.org\nhttp://www.google.com\nhttps://www.google.com\nhttps://www.gstatic.com\nhttp://cdn.mathjax.org\nhttps://cdn.mathjax.org\nhttps://cdnjs.cloudflare.com\nhttps://hcaptcha.com\nhttps://*.hcaptcha.com\n'self'\n'unsafe-inline'\n'unsafe-eval'",
+    "captchaLanguage": "",
+    "time": "%m/%d/%y(%a)%H:%M:%S",
+    "timeLocale": "",
+    "backlink": ">>%id",
+    "pastedname": "file",
+    "fileInfo": "%l %d (%p%s, %r%g)",
+    "favicon": "ferongr",
+    "usercss": ":root {\n    --light_red: #c25b74;\n}\n\n.subject {\n    color: var(--light_red);\n    font-weight: 700\n}\n\n@  font-face\n  {\n    font-family: 'Montserrat';\n    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/rBHvpRWBkgyW99dXT88n7yEAvth_LlrfE80CYdSH47w.woff2) format('woff2');\n    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/NX1NravqaXESu9fFv7KuqiEAvth_LlrfE80CYdSH47w.woff2) format('woff2');\n    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/SKK6Nusyv8QPNMtI4j9J2yEAvth_LlrfE80CYdSH47w.woff2) format('woff2');\n    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/gFXtEMCp1m_YzxsBpKl68iEAvth_LlrfE80CYdSH47w.woff2) format('woff2');\n    src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v12/zhcz-_WihjSQC0oHJ9TCYPk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');\n  }\n@  font-face\n  {\n    font-family: 'Kaushan Script';\n    src: url(https://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03IJsM3FTMmj2kTPH3yX99Yaw.woff2);\n  }\n@  font-face\n  {\n    font-family: 'font-awesome';\n    src: url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2);\n  }\n\n/* scrollbar */\n  ::-webkit-scrollbar\n  {\n    width: 12px;\n    height: 12px;\n  }\n\n  ::-webkit-scrollbar-thumb\n  {\n    background: rgba(84, 204, 102, 0.4);\n    -webkit-box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.2);\n  }\n\n  ::-webkit-scrollbar-track\n  {\n    background: #000000;\n    -webkit-box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.1);\n  }\n\n  ::-webkit-scrollbar-corner\n  {\n    background-color: #3a3939;\n  }\n\n/* Header */\n  body.hasDropDownNav\n  {\n    margin-top: 0;\n  }\n\n  div#boardNavDesktop\n  {\n    position: fixed;\n    top: 0px;\n    left: 0px;\n    right: 0px;\n    z-index: 9001;\n  }\n\n  .boardList\n  {\n    width: calc(100% - 110px);\n    display: inline-block;\n    color: transparent;\n  }\n\n  .boardList a\n  {\n    position: relative;\n    z-index: 9002;\n  }\n\n  .boardList a:after\n  {\n    content: \"·\";\n    margin-right: -10px;\n    padding-left: 2px;\n    cursor: pointer;\n    display: inline-block;\n    color: #747474!important;\n    pointer-events: none!important;\n  }\n\n  .boardList a:last-child:after,\n.small .party-hat,\n.extended-small .party-hat,\n.party-hat\n  {\n    display: none;\n  }\n\n  #navtopright,\n#navbotright\n  {\n    display: inline-block;\n    color: transparent;\n  }\n\n  #boardNavMobile .boardSelect:hover .custom-menu-ctrl\n  {\n    color: transparent;\n  }\n\n  #boardNavMobile .boardSelect:hover .custom-menu-ctrl a\n  {\n    -webkit-appearance: none;\n    background: #527d4c;\n    padding: 1px 4px!important;\n    color: #fff!important;\n    font-size: 10px;\n    text-align: center;\n    border-radius: 2px;\n    display: inline-block;\n    cursor: pointer;\n    outline: 0;\n    border: 0;\n    letter-spacing: .5px;\n    font-weight: bold;\n  }\n\n  #boardNavMobile .boardSelect:hover .custom-menu-ctrl a:hover\n  {\n    -webkit-appearance: none;\n    background-color: #393939!important;\n    cursor: pointer;\n    color: #d1d1d1!important;\n  }\n\n  .persistentNav,\ndiv#boardNavMobile,\ndiv#boardNavDesktop,\n:root.fixed:not(.centered-links) #header-bar\n  {\n    padding: 6px!important;\n    color: #ccc!important;\n    background-color: #202020!important;\n    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.3)!important;\n    border-top: 3px solid #498152!important;\n    border-bottom: none!important;\n    font-size: 9pt!important;\n  }\n\n  #custom-board-list\n  {\n    color: #747474!important;\n  }\n\n/******************************/\n  hr\n  {\n    border-width: 0!important;\n  }\n\n  #hd\n  {\n    margin-top: 120px;\n  }\n\n  a,\na:visited,\ndiv.post div.postInfo span.postNum > a\n  {\n    color: #747474!important;\n  }\n\n  body\n  {\n    background: #191919!important;\n    color: #c3c3c3!important;\n    font-family: arial, helvetica, sans-serif!important;\n    font-size: 10pt!important;\n  }\n\n  html\n  {\n    background: #191919!important;\n  }\n\n  div.boardBanner\n  {\n    margin-top: 40px!important;\n  }\n\n  select\n  {\n    background-color: #353535!important;\n    border: 0.0625rem solid #2f2f2f!important;\n    color: #a1a1a1!important;\n  }\n\n  body > h2\n  {\n    background: #527d4c;\n    border-color: #527d4c;\n    color: #fff;\n  }\n\n  body > h2 > .plus\n  {\n    background: #364e33;\n    border-color: #6e926a;\n  }\n\n  body > h2 > .plus:hover\n  {\n    background: #1b2a1c;\n    border-color: #50814d;\n  }\n\n  .pageJump a\n  {\n    color: #c2c2c2!important;\n  }\n\n  #content > #ctrl\n  {\n    padding: 6px!important;\n    background-color: #1f1f1f;\n    border: 1px solid #272727;\n  }\n\n  div.navLinks.desktop a,\nspan.navLinks.mobilebtn span a,\nspan.navLinks.mobilebtn span span\n  {\n    font-weight: 600;\n    border-bottom: solid 2px #666;\n    padding-bottom: 2px;\n    -moz-transition: all 500ms cubic-bezier(.35, .34, .32, 1);\n    -o-transition: all 500ms cubic-bezier(.35, .34, .32, 1);\n    -webkit-transition: all 500ms cubic-bezier(.35, .34, .32, 1);\n    transition: all 500ms cubic-bezier(.35, .34, .32, 1);\n  }\n\n  div.navLinks.desktop a:hover,\nspan.navLinks.mobilebtn span a:hover,\nspan.navLinks.mobilebtn span span:hover\n  {\n    border-bottom-color: #09f;\n    -moz-transition: all 500ms cubic-bezier(.35, .34, .32, 1);\n    -o-transition: all 500ms cubic-bezier(.35, .34, .32, 1);\n    -webkit-transition: all 500ms cubic-bezier(.35, .34, .32, 1);\n    transition: all 500ms cubic-bezier(.35, .34, .32, 1);\n  }\n\n  .navLinks\n  {\n    padding-bottom: 8px;\n    color: transparent;\n  }\n\n  a,\n.button,\na:hover,\n.burichan_new .backlink a,\n.yotsuba_b_new .backlink a,\n.quoteLink,\n.quotelink,\n.deadlink,\na.replylink:not(:hover),\ndiv#absbot a:not(:hover),\n#arc-list .quotelink\n  {\n    color: #747474!important;\n    text-decoration: none!important;\n    transition: all 0.1s!important;\n  }\n\n  a:hover,\n.button:hover,\n.burichan_new .backlink a:hover,\n.yotsuba_b_new .backlink a:hover,\ndiv.post div.postInfo span.postNum a:hover,\n.posteruid .hand:hover,\n.pageJump a:hover,\n#arc-list .quotelink:hover,\na.quoteLink:hover,\na.quotelink:hover\n  {\n    color: #e7e7e7!important;\n    transition: all 0.1s!important;\n  }\n\n  #togglePostFormLink\n  {\n    color: transparent;\n  }\n\n  #togglePostFormLink a,\n.qr-link-container .qr-link\n  {\n    -webkit-appearance: none;\n    background: #527d4c!important;\n    padding: 8px 18px;\n    color: #fff!important;\n    font-size: 14px;\n    text-align: center;\n    border-radius: 2px;\n    margin-right: 5px;\n    margin-top: 5px;\n    display: inline-block;\n    cursor: pointer;\n    outline: 0;\n    border: 0;\n  }\n\n  #togglePostFormLink a:hover,\n.qr-link-container .qr-link:hover\n  {\n    -webkit-appearance: none;\n    background-color: #393939!important;\n    cursor: pointer;\n    color: #d1d1d1!important;\n  }\n\n  #postForm input[type=\"text\"],\n#postForm input[type=\"password\"],\ntable.postForm > tbody textarea,\n#recaptcha_response_field\n  {\n    background-color: #1D1D1D;\n    font-size: 15px;\n    transition: none 0s ease 0s;\n    border: 1px solid #272727;\n    color: #c3c3c3;\n  }\n\n  #postForm input:focus\n  {\n    border-color: #272727!important;\n  }\n\n  table.postForm textarea:focus\n  {\n    border-color: #484848!important;\n  }\n\n  table.postForm > tbody > tr > td:first-child\n  {\n    background-color: #222222;\n    border: 1px solid #2b2b2b;\n    color: #838383;\n  }\n\n  input\n  {\n    font-size: 13px;\n    font-weight: 400;\n    color: #878787;\n    background: #282828;\n    padding: 3px 10px;\n    transition: all 0.3s ease;\n    border: none;\n  }\n\n  .postContainer.replyContainer:nth-child(even) > div.reply\n  {\n    background-color: #232323;\n  }\n\n  div.thread > div:nth-of-type(2) > div.reply\n  {\n    margin-top: 10px!important;\n  }\n\n  div.thread > div > div.reply\n  {\n    margin-left: 10%!important;\n    margin-top: 2px!important;\n    width: calc(100% - 20%);\n    display: inline-block;\n  }\n\n  div.reply\n  {\n    background-color: #212121;\n    box-shadow: 2px 2px 2px #171717;\n    border: 1px solid #262626;\n  }\n\n  div.post div.postInfo\n  {\n    background: #1d1d1d;\n    padding: 9px;\n    margin-bottom: 5px!important;\n    width: auto;\n  }\n\n  .catalog-post > .postInfo.postInfo\n  {\n    background: transparent;\n    padding: 0;\n    margin-bottom: 0!important;\n    width: auto;\n  }\n\n  div.opContainer div.post div.postInfo\n  {\n    background: none;\n    padding: 0;\n  }\n\n  div.boardSelect\n  {\n    color: #ccc!important;\n  }\n\n  div.sideArrows,\nimg.middlead,\n.middlead > div,\n.middlead a img,\n#bannerCnt img,\n.adg-rects,\ndiv#boardNavDesktopFoot,\n#doc > #bd > div div[style=\"display:inline-block;width:300px;height:250px;margin:0 10px\"]\n  {\n    display: none!important;\n  }\n\n  .reply:target,\n.reply.highlight,\ndiv.post blockquote.postMessage .preview\n  {\n    background: #232323!important;\n    border: 1px solid #527d4c!important;\n  }\n\n  #quote-preview,\n.yotsuba_new #quote-preview.highlight\n  {\n    box-shadow: rgb(19, 19, 19) 0px 0px 8px!important;\n    border: 1px solid #262626!important;\n    background-color: #212121!important;\n  }\n\n  #toggleMsgBtn,\n.settings-cat-lbl img,\n.extButton,\nimg.pointer,\n#disclaimer-dialog .container-close,\n.closebutton,\n.closeIcon,\n.refreshIcon\n  {\n    filter: grayscale(1);\n  }\n\n  #bannerCnt,\n.c-thread img\n  {\n    border-color: rgba(255, 255, 255, 0.1);\n  }\n\n  div.op#quote-preview div.postInfo\n  {\n    background: none!important;\n    padding: 0;\n    margin-bottom: 0!important;\n  }\n\n  div.op#quote-preview div.file\n  {\n    background: #1d1d1d;\n    padding: 0 9px;\n    margin-bottom: 5px!important;\n    width: auto;\n    line-height: 30px;\n    height: 30px;\n  }\n\n  .globalMessage,\ndiv#absbot,\n.warning,\ndiv.closed\n  {\n    color: #d03d3d!important;\n  }\n\n  div#absbot\n  {\n    font-size: x-small!important;\n  }\n\n  a[data-cmd=\"embed\"]\n  {\n    display: inline-block;\n    margin: 0.2rem .5rem;\n    border-radius: 0.1875rem;\n    background-color: #4d7280;\n    background: linear-gradient(to bottom, #2473ab 0%, #1e528e 70%, #394375 100%);\n    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);\n    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25);\n    color: #efefef!important;\n    text-align: center;\n    font-size: 11px;\n    width: 80px;\n    height: 22px;\n    line-height: 22px;\n    font-weight: 300;\n  }\n\n  .fileText a[href*=\".webm\"]:not(.download-button):not(.sauce)\n  {\n    margin-right: 75px;\n    line-height: 17px;\n  }\n\n  #quote-preview.post.op .fileText a[href*=\".webm\"]:not(.download-button):not(.sauce)\n  {\n    line-height: 0;\n  }\n\n  .fileText a[href*=\".gif\"]:not(.download-button):not(.sauce)\n  {\n    margin-right: 55px;\n    line-height: 17px;\n  }\n\n  #quote-preview.post.op .fileText a[href*=\".gif\"]:not(.download-button):not(.sauce)\n  {\n    line-height: 0;\n  }\n\n  .fileText a[href*=\".webm\"]:not(.download-button):not(.sauce):after\n  {\n    content: \"Webm\";\n    display: inline-block;\n    margin: -1px .5rem;\n    padding: 0.0rem .4rem;\n    border-radius: 0.1875rem;\n    color: white!important;\n    background-color: #ff3546;\n    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);\n    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25);\n    text-align: center;\n    font-size: 11px;\n    width: 50px;\n    height: 18px;\n    line-height: 18px;\n    font-weight: 300;\n    cursor: pointer;\n    pointer-events: none!important;\n    z-index: auto!important;\n    position: absolute;\n  }\n\n  #quote-preview.post.op .fileText a[href*=\".webm\"]:not(.download-button):not(.sauce):after\n  {\n    margin-top: 6px;\n  }\n\n  .fileText a[href*=\".gif\"]:not(.download-button):not(.sauce):after\n  {\n    content: \"Gif\";\n    display: inline-block;\n    margin: -1px .5rem;\n    padding: 0.0rem .4rem;\n    border-radius: 0.1875rem;\n    color: black!important;\n    background-color: #ffab3d;\n    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);\n    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25);\n    text-align: center;\n    font-size: 11px;\n    width: 30px;\n    height: 18px;\n    line-height: 18px;\n    font-weight: normal;\n    cursor: pointer;\n    pointer-events: none!important;\n    z-index: auto!important;\n    position: absolute;\n  }\n\n  #quote-preview.post.op .fileText a[href*=\".gif\"]:not(.download-button):not(.sauce):after\n  {\n    margin-top: 6px;\n  }\n\n  .dd-menu ul,\n#fp-menu\n  {\n    background-color: #2d2d2d;\n    border-color: #353535;\n    color: #848484;\n  }\n\n  .dd-menu li\n  {\n    border-color: #353535;\n  }\n\n  .dd-menu li:hover,\n#fp-menu li:hover\n  {\n    background-color: #626262;\n    color: #191919;\n  }\n\n  div#boardNavMobile select:focus,\ndiv#boardNavMobile option:focus\n  {\n    outline: none;\n  }\n\n  #copyright:after\n  {\n    content: \"Dark4chan by eXoNecro.\";\n    display: inline-block;\n  }\n\n  s,\ns a:not(:hover)\n  {\n    color: rgba(255, 60, 231, 0)!important;\n    background: none!important;\n    text-shadow: 1px 0 12px #cacac2, -1px 0 12px #d6d6cb;\n    padding: 0 2px;\n    transition-duration: 0.5s;\n  }\n\n  s:hover,\ns:focus,\ns:hover a\n  {\n    text-decoration: none!important;\n    color: #c3c3c3!important;\n    text-shadow: none;\n    transition-duration: 0.5s;\n  }\n\n  div.post div.postInfo span.subject\n  {\n    color: #cb975b;\n  }\n\n  table.postForm > tbody > tr > td:first-child,\n.thread-stats,\n.navLinks label,\n.navLinks.desktop span:last-child\n  {\n    color: #c3c3c3;\n  }\n\n  .board > .navLinks\n  {\n    padding-bottom: 8px;\n    color: transparent;\n    width: 80%;\n    margin: auto;\n  }\n\n  blockquote > span.quote\n  {\n    color: #85b76f;\n    text-shadow: rgba(0, 0, 0, .8) 0px 0px 3px;\n  }\n\n  .yotsuba_new .panelHeader,\n.yotsuba_b_new .panelHeader\n  {\n    border-bottom-color: #2b2b2b;\n  }\n\n  #announce,\n.top-box,\n#disclaimer-dialog\n  {\n    border-radius: 2px;\n    box-shadow: 2px 2px 2px #171717;\n    background-color: #222222;\n    border: 1px solid #2b2b2b;\n    color: #b9b9b9;\n  }\n\n  .boxbar\n  {\n    background: #282828;\n    color: #909090!important;\n  }\n\n  #announce .boxbar,\n#disclaimer-dialog .hd\n  {\n    background: #527d4c;\n    color: #fff!important;\n  }\n\n  .disclaimer-footer button\n  {\n    background: #3E6E3E;\n    color: #fff;\n    border: 1px solid #292929;\n    border-radius: 2px;\n    box-shadow: 0px 0px 8px #1b1b1b;\n    height: 25px;\n  }\n\n  #boards a:hover\n  {\n    margin-left: 5px!important;\n    transition: all 0.2s!important;\n  }\n\n  #boards a\n  {\n    transition: all 0.2s!important;\n  }\n\n  #ft li.current,\n#ft li.fill,\n#ft ul\n  {\n    background: none!important;\n    color: transparent!important;\n  }\n\n  #ft li\n  {\n    display: inline-block;\n    padding: 7px 10px;\n    font-size: 13px;\n    background: #212121;\n    color: #656565;\n    border-radius: 1px;\n    box-shadow: 0 0 5px rgba(0, 0, 0, 0.14);\n    margin: 0px 2px;\n    border: none!important;\n  }\n\n  #ft li:hover\n  {\n    background-color: #262626;\n  }\n\n  div.pagelist\n  {\n    font-size: 13px;\n    font-weight: 400;\n    color: #878787;\n    background: #282828;\n    border: none;\n  }\n\n  div.pagelist > div\n  {\n    color: transparent;\n  }\n\n  div.pagelist div.pages a\n  {\n    font-family: 'Roboto', sans-serif;\n    font-size: 13px;\n    font-weight: 400;\n    color: #878787;\n    background: #282828;\n    padding: 7px 4px;\n    transition: all 0.3s ease;\n  }\n\n  div.pagelist div.cataloglink\n  {\n    border-left-color: #1d1d1d;\n  }\n\n  table.flashListing tr:nth-of-type(odd)\n  {\n    background-color: #202020;\n  }\n\n  #qrepHeader,\n#qrHeader\n  {\n    background: #527d4c;\n    color: #fff!important;\n    border-color: #527d4c;\n  }\n\n  #quickReply input[type=\"text\"],\n#quickReply textarea,\n#quickReply #recaptcha_response_field\n  {\n    -webkit-appearance: none;\n    background: #262626;\n    color: #848484;\n    border: 1px solid #292929;\n    padding: 12px 0;\n    outline: 0;\n    font-size: 14px;\n    font-family: 'Roboto Condensed', sans-serif;\n    border-radius: 2px;\n    width: 100%;\n    box-shadow: 0px 0px 8px #1b1b1b;\n  }\n\n  #quickReply input[type=\"text\"]:focus,\n#quickReply textarea:focus,\n#quickReply #recaptcha_response_field:focus\n  {\n    border: 1px solid #292929!important;\n  }\n\n  #qrError\n  {\n    background-color: #bf4242;\n  }\n\n  .open-qr-wrap\n  {\n    visibility: hidden!important;\n  }\n\n  a.open-qr-link::after\n  {\n    z-index: 1;\n    background: #3a3a3a;\n    box-shadow: 0 1px 1.5px 0 rgba(0, 0, 0, .12), 0 1px 1px 0 rgba(0, 0, 0, .24);\n    position: fixed;\n    right: 25px;\n    bottom: 25px;\n    display: inline-block;\n    font-size: 24px;\n    color: #fff;\n    content: '+';\n    width: 56px;\n    height: 56px;\n    line-height: 56px;\n    vertical-align: middle;\n    border-radius: 50%;\n    font-weight: normal;\n    text-align: center;\n    cursor: pointer;\n    visibility: visible!important;\n  }\n\n  a.open-qr-link:hover::after\n  {\n    background: #4e4e4e;\n  }\n\n  .bottomCtrl\n  {\n    margin-right: 100px;\n  }\n\n  .post.reply .expandedWebm\n  {\n    max-width: calc(100% - 40px)!important;\n  }\n\n  div.post div.file.image-expanded .fileThumb img\n  {\n    max-width: calc(100% - 5px)!important;\n  }\n\n  #post-preview\n  {\n    background-color: #252525;\n    border: 2px solid #5a9a4e;\n  }\n\n  #post-preview .post-subject\n  {\n    color: #cb975b;\n  }\n\n  .pinned\n  {\n    border-color: #cb975b;\n  }\n\n  .pinned:hover\n  {\n    border-color: #d03d3d;\n  }\n\n  .fileDeletedRes\n  {\n    -webkit-filter: invert(100%);\n    filter: invert(100%);\n  }\n\n  input[type=\"checkbox\"]:before\n  {\n    content: \"\";\n    display: block;\n    width: 13px;\n    height: 13px;\n    background: #191919;\n    -moz-box-shadow: inset 0px 0px 0px 1px #505050;\n    -webkit-box-shadow: inset 0px 0px 0px 1px #505050;\n    -o-box-shadow: inset 0px 0px 0px 1px #505050;\n    box-shadow: inset 0px 0px 0px 1px #505050;\n    transition: all 250ms cubic-bezier(.4, .0, .23, 1);\n  }\n\n  input[type=\"checkbox\"]:checked:after\n  {\n    content: \"\\f00c\";\n    font-family: 'font-awesome';\n    display: block;\n    color: #40c355;\n    text-align: center;\n    position: relative;\n    bottom: 13px;\n    animation: shrink-bounce 200ms cubic-bezier(.4, .0, .23, 1);\n  }\n\n  input[type=\"checkbox\"]:checked:before\n  {\n    content: \"\";\n    display: block;\n    background: #191919;\n    box-shadow: inset 0px 0px 0px 1px #505050;\n    animation: shrink-bounce 200ms cubic-bezier(.4, .0, .23, 1);\n  }\n\n  #bannerCnt\n  {\n    visibility: hidden;\n  }\n\n  #bannerCnt:before\n  {\n    content: \"\";\n    background: linear-gradient(to top, rgba(25, 25, 25, 1) 0%, transparent 100%), url('https://github.com/eXo-Necro/Files/blob/master/4chan/Trefle-background.jpg?raw=true') no-repeat;\n    background-position: 0px 90%;\n    background-size: cover;\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 182px;\n    visibility: visible;\n  }\n\n  #logo > h1 > a:before,\n#logo-fp > a[title=\"Home\"]:before\n  {\n    content: \"\";\n    background: linear-gradient(to top, rgba(25, 25, 25, 1) 0%, rgba(25, 25, 25, .8) 50%, transparent 100%), url('https://github.com/eXo-Necro/Files/blob/master/4chan/Trefle-background.jpg?raw=true') no-repeat;\n    background-position: 0px 90%;\n    background-size: cover;\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 235px;\n  }\n\n  #logo > h1 > a:before\n  {\n    height: 120px;\n  }\n\n  .boxcontent img[alt=\"404 Not Found\"]\n  {\n    width: 539px;\n    height: 275px;\n    box-sizing: border-box;\n    padding-left: 539px;\n    background: url(https://github.com/eXo-Necro/Files/blob/master/4chan/404.png?raw=true) left top no-repeat;\n  }\n\n  #logo-fp > a:focus\n  {\n    outline: none!important;\n  }\n\n  #logo > h1 > a:after,\n#logo-fp > a[title=\"Home\"]:after\n  {\n    content: \"4chan\";\n    position: absolute;\n    top: 80px;\n    left: calc(50% - 86px);\n    color: rgba(255, 255, 255, .8);\n    font-size: 70px;\n    font-family: 'Kaushan Script';\n    font-weight: normal!important;\n    line-height: 1;\n    letter-spacing: -1px;\n    -moz-transition: all 0.3s cubic-bezier(.25, .5, .25, 1);\n    -o-transition: all 0.3s cubic-bezier(.25, .5, .25, 1);\n    -webkit-transition: all 0.3s cubic-bezier(.25, .5, .25, 1);\n    transition: all 0.3s cubic-bezier(.25, .5, .25, 1);\n  }\n\n  #logo > h1 > a:after\n  {\n    top: 20px;\n  }\n\n  #logo > h1 > a:hover:after,\n#logo-fp > a[title=\"Home\"]:hover:after\n  {\n    text-shadow: 0 1px 0px #90ce88, 1px 0 0px #90ce88, 0 -1px 0px #90ce88, -1px 0 0px #90ce88!important;\n    color: #1a1d1c!important;\n  }\n\n  .shown\n  {\n    width: 519px;\n    background-color: #1d1d1d;\n    padding: 10px;\n    border-radius: 1px;\n    font-size: 15px;\n    text-align: center;\n    margin: 0 auto;\n    color: transparent!important;\n  }\n\n  .shown a\n  {\n    font-size: 15px;\n    text-transform: uppercase;\n  }\n\n  div.boardBanner > div.boardTitle,\ndiv.boardBanner > div.boardSubtitle\n  {\n    position: relative;\n    z-index: auto;\n    bottom: 60px;\n  }\n\n  div.boardBanner > div.boardTitle\n  {\n    bottom: 70px;\n    font-family: 'Montserrat';\n    font-weight: 100;\n    text-shadow: rgb(0, 0, 0) 0px 0px 3px!important;\n    color: #c3c3c3!important;\n    font-size: 28px!important;\n    letter-spacing: -2px!important;\n  }\n\n  .summary.desktop a.replylink:not(:hover)\n  {\n    color: #a1a1a1!important;\n    text-shadow: rgba(0, 0, 0, .5) 0px 0px 3px!important;\n  }\n\n  #backdrop\n  {\n    background-color: rgba(0, 0, 0, 0.75);\n  }\n\n  #filters.panel\n  {\n    color: #fff;\n    box-shadow: 2px 2px 2px #171717;\n    background-color: #222222;\n    border: 1px solid #2b2b2b;\n    border-bottom-width: 2px;\n  }\n\n  #filters.panel .panelHeader\n  {\n    color: #FFF;\n    font-weight: 500;\n    font-size: 16px;\n    background-color: #527d4c;\n    padding: 5px;\n    margin-top: -2px;\n    margin-left: -5px;\n    margin-right: -5px;\n  }\n\n  div.post div.postInfo span.nameBlock span.name\n  {\n    color: #117743!important;\n  }\n\n  .nameBlock.capcodeMod span.name,\nspan.capcodeMod a span.name,\nspan.capcodeMod span.postertrip,\nspan.capcodeMod strong.capcode\n  {\n    color: #d635d6!important;\n  }\n\n  .left-box .boxbar\n  {\n    background: #9c6;\n    color: white!important;\n  }\n\n  .right-box .boxbar\n  {\n    background: #59a;\n  }\n\n  .right-box .boxbar a\n  {\n    color: white!important;\n  }\n\n  .left-box,\n.right-box\n  {\n    border-radius: 2px;\n    box-shadow: 2px 2px 2px #171717;\n    background-color: #222222;\n    border: 1px solid #2b2b2b;\n  }\n\n  .boxcontent\n  {\n    color: #838383;\n  }\n\n  .right-box .boxcontent hr\n  {\n    color: #838383;\n    background: #2b2b2b;\n  }\n\n  .boxcontent dd\n  {\n    border-color: #838383;\n  }\n\n  .right-box .boxcontent dt\n  {\n    color: #838383;\n  }\n\n  .right-box .boxcontent a\n  {\n    color: #dba474!important;\n  }\n\n  body #doc #hd + .box-outer.top-box\n  {\n    margin-top: 120px;\n  }\n\n  #search-box\n  {\n    border-color: #464646;\n  }\n\n  #search-box:focus\n  {\n    border-color: #777777!important;\n  }\n\n  #tooltip\n  {\n    background: #527d4c;\n    border-radius: 4px;\n    color: white;\n    box-shadow: rgb(19, 19, 19) 0px 0px 8px;\n  }\n\n  .tip-top-left:before,\n.tip-top-right:before,\n.tip-top:before\n  {\n    border-top-color: #527d4c;\n  }\n\n  .postblock\n  {\n    background-color: #1f1f1f;\n    color: #838383;\n    border-color: #272727;\n  }\n\n  div[style^=\"background-color: rgb(255, 255, 255);border: 1px solid rgb(204, 204, 204);box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px;position: absolute;\"][style$=\"transition: visibility 0s linear 0s, opacity 0.3s linear; opacity: 1; visibility: visible; z-index: 2000000000;\"],\ndiv[style^=\"background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute;\"][style$=\"transition: visibility 0s linear 0s, opacity 0.3s linear; opacity: 1; visibility: visible; z-index: 2000000000;\"]\n  {\n    border-color: #373737!important;\n  }\n\n  div[style^=\"background-color: rgb(255, 255, 255);border: 1px solid rgb(204, 204, 204);box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px;position: absolute;\"][style$=\"transition: visibility 0s linear 0s, opacity 0.3s linear; opacity: 1; visibility: visible; z-index: 2000000000;\"] > div[style=\"width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: #fff; opacity: 0.05;  filter: alpha(opacity=5)\"],\ndiv[style^=\"background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute;\"][style$=\"transition: visibility 0s linear 0s, opacity 0.3s linear; opacity: 1; visibility: visible; z-index: 2000000000;\"] > div[style=\"width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: #fff; opacity: 0.05;  filter: alpha(opacity=5)\"]\n  {\n    background-color: #000!important;\n    opacity: 0.35!important;\n  }\n\n  .g-recaptcha-bubble-arrow\n  {\n    filter: invert(.84);\n  }\n\n  #theme.panel\n  {\n    background-color: #212121;\n    box-shadow: 2px 2px 2px #171717;\n    border-color: #262626;\n  }\n\n  .clickset kbd\n  {\n    background-color: #3E6E3E;\n    color: #fff;\n    border-color: #3e6e3e;\n    border-radius: 2px;\n    box-shadow: 0 1px 0 rgba(0, 0, 0, .5), 0 0 0 2px #3e6e3e inset;\n  }\n\n  textarea#theme-css\n  {\n    background-color: #262626;\n    color: #848484;\n    border-color: #292929;\n    border-radius: 2px;\n    box-shadow: 0px 0px 8px #1b1b1b;\n  }\n\n  textarea#theme-css:focus\n  {\n    border-color: #656565!important;\n  }\n\n  #threadWatcher\n  {\n    background-color: #252525;\n    border-color: #252525;\n    box-shadow: rgb(19, 19, 19) 0px 0px 8px;\n  }\n\n  #threadWatcher #twHeader\n  {\n    color: #85b76f;\n  }\n\n  #watchList li:first-child\n  {\n    border-color: #383838!important;\n  }\n\n  #qrForm > #qrCaptchaContainerAlt\n  {\n    height: 100px;\n  }\n\n  #qrForm > #qrCaptchaContainerAlt #recaptcha_response_field\n  {\n    border-color: #404040!important;\n  }\n\n  .noPictures.futaba_new a.fileThumb,\n.noPictures.yotsuba_new a.fileThumb\n  {\n    border-color: #3a3a3a;\n  }\n\n  a.linkified\n  {\n    color: #9baed2!important;\n  }\n\n  a.linkified:hover\n  {\n    text-decoration: underline!important;\n  }\n\n  a.linkified:visited\n  {\n    color: #b8a7c3!important;\n  }\n\n  pre.prettyprint\n  {\n    padding: 12px!important;\n    background-color: #1d1d1d;\n    border-radius: 2px;\n    border: 1px solid #2c2c2c!important;\n  }\n\n  pre.prettyprint *\n  {\n    filter: invert(1) saturate(800%);\n    text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.5);\n  }\n\n  .post.op.preview.inlined > div.file\n  {\n    background: #1d1d1d;\n    padding: 0 9px;\n    margin-bottom: 5px!important;\n    width: auto;\n    line-height: 30px;\n    height: 30px;\n  }\n\n  .post.op.preview.inlined > div.postInfo\n  {\n    background: none!important;\n    padding: 0;\n    margin-bottom: 0!important;\n  }\n\n  #customMenu.panel\n  {\n    background-color: #212121;\n  }\n\n  :root .watch-thread-link\n  {\n    filter: invert(100%) contrast(0);\n  }\n\n  .hide-thread-button,\n.hide-reply-button\n  {\n    position: absolute;\n    margin-left: calc(10% - 20px)!important;\n  }\n\n  .hide-thread-button,\n.hide-reply-button\n  {\n    display: none;\n  }\n\n  #fourchanx-settings,\n:root.catalog-hover-expand .catalog-container:hover > .catalog-post\n  {\n    background-color: #212121!important;\n    box-shadow: 2px 2px 2px #171717;\n    border-color: #262626!important;\n  }\n\n  :root .suboption-list > div:last-of-type\n  {\n    background-color: transparent!important;\n  }\n\n  .tu-error\n  {\n    font-weight: 600;\n    border-bottom: solid 2px #d03d3d;\n    padding-bottom: 2px;\n    margin-left: 10px;\n  }\n\n  .tu-error:before\n  {\n    content: \"·\";\n    position: absolute;\n    margin-left: -10px;\n    height: 25px;\n    line-height: 25px;\n    border-bottom: none!important;\n    display: inline-block;\n    color: #747474!important;\n  }\n\n  .extended-small .thread,\n.extended-large .thread\n  {\n    margin: 0 10px 11px;\n    background-color: #202020;\n    border: 1px solid #222;\n  }\n\n  .extended-small .thread\n  {\n    width: 158px;\n    height: 318px;\n  }\n\n  .extended-large .thread\n  {\n    width: 245px;\n    height: 408px;\n  }\n\n  .extended-small .thread .meta,\n.extended-large .thread .meta\n  {\n    font-size: 12px;\n    line-height: 27px;\n    background-color: #252525;\n    position: absolute;\n    bottom: -1px;\n    width: 100%;\n    text-align: left;\n    padding-left: 10px;\n  }\n\n  .extended-small .thread .postMenuBtn,\n.extended-large .thread .postMenuBtn\n  {\n    display: inline-block!important;\n    line-height: 27px;\n    position: absolute;\n    right: 22px;\n    visibility: hidden;\n    -webkit-transform: none;\n    -moz-transform: none;\n    -ms-transform: none;\n    transform: none;\n  }\n\n  .extended-small .thread .postMenuBtn:after,\n.extended-large .thread .postMenuBtn:after\n  {\n    content: \"\\f142\";\n    display: inline-block!important;\n    opacity: 1!important;\n    font-family: 'font-awesome';\n    font-size: 16px;\n    font-weight: 100!important;\n    visibility: visible;\n    color: #c5c5c5;\n    width: 25px;\n    text-align: center;\n    position: relative;\n    bottom: 25px;\n    animation: shrink-bounce 200ms cubic-bezier(.4, .0, .23, 1);\n  }\n}\n\n@-moz-document url-prefix(\"https://www.google.com/recaptcha\"), url-prefix(\"http://www.google.com/recaptcha\")\n{\n  a\n  {\n    color: #9baed2!important;\n  }\n\n  a:hover\n  {\n    color: #b8a7c3!important;\n  }\n\n  ::-webkit-scrollbar\n  {\n    width: 8px!important;\n    height: 8px!important;\n  }\n\n  ::-webkit-scrollbar-track\n  {\n    background: transparent!important;\n  }\n\n  ::-webkit-scrollbar-thumb\n  {\n    background: rgba(255, 255, 255, .10)!important;\n    border-radius: 0px!important;\n  }\n\n  ::-webkit-scrollbar-thumb:hover\n  {\n    background: rgba(255, 255, 255, .25)!important;\n  }\n\n  ::-webkit-scrollbar-thumb:active\n  {\n    background: rgba(255, 255, 255, .50)!important;\n  }\n\n  .rc-anchor-normal\n  {\n    background-color: #292929!important;\n    border-color: #373737!important;\n    color: #fafafa!important;\n  }\n\n  .recaptcha-checkbox-border,\n.rc-audiochallenge-response-field .rc-response-input-field\n  {\n    background-color: #373737!important;\n    border-color: #424242!important;\n    color: #fff!important;\n  }\n\n  .recaptcha-checkbox-hover .recaptcha-checkbox-border,\n.recaptcha-checkbox-hover .recaptcha-checkbox-spinner-gif\n  {\n    border-color: #5f5f5f!important;\n  }\n\n  .recaptcha-checkbox-expired .recaptcha-checkbox-border,\n.recaptcha-checkbox-expired .recaptcha-checkbox-spinner-gif\n  {\n    border-color: #d03d3d!important;\n  }\n\n  #rc-imageselect\n  {\n    background-color: #292929!important;\n    border-color: #d03d3d!important;\n  }\n\n  .rc-separator\n  {\n    border-color: #373737!important;\n  }\n\n  .rc-imageselect-desc-wrapper,\n.rc-button-default\n  {\n    background: -moz-linear-gradient(left, rgba(59, 103, 178, 1) 1%, rgba(79, 80, 173, 1) 100%)!important;\n    background: -webkit-linear-gradient(left, rgba(59, 103, 178, 1) 1%, rgba(79, 80, 173, 1) 100%)!important;\n    background: linear-gradient(to right, rgba(59, 103, 178, 1) 1%, rgba(79, 80, 173, 1) 100%)!important;\n    color: white!important;\n  }\n\n  .rc-imageselect-candidates\n  {\n    border-color: #373737!important;\n    background-color: #373737!important;\n  }\n\n  .rc-button,\n.rc-audiochallenge-tdownload-link\n  {\n    filter: invert(1)!important;\n  }\n\n  .rc-imageselect-incorrect-response,\n.rc-imageselect-error-dynamic-more,\n.rc-imageselect-error-select-more,\n.rc-imageselect-error-select-something\n  {\n    color: #fff!important;\n    background-color: #d03d3d!important;\n  }\n\n  .rc-audiochallenge-error-message\n  {\n    color: #d03d3d!important;\n  }\n\n  .rc-audiochallenge-instructions,\n.rc-challenge-help,\n.rc-doscaptcha-body-text\n  {\n    color: #b3b3b3!important;\n  }\n\n  .rc-challenge-help:focus,\n.rc-doscaptcha-body-text:focus,\n.rc-audiochallenge-error-message:focus\n  {\n    outline: none!important;\n  }\n\n  .recaptcha-checkbox-borderAnimation,\n.recaptcha-checkbox-spinner,\n.recaptcha-checkbox-loading .recaptcha-checkbox-spinnerAnimation,\n.recaptcha-checkbox-checkmark\n  {\n    filter: invert(.7) hue-rotate(180deg) saturate(200%)!important;\n  }\n\n  .rc-controls > .rc-challenge-help\n  {\n    background-color: #292929!important;\n  }\n\n  .rc-doscaptcha-header:after,\n.rc-audiochallenge-instructions:after\n  {\n    content: \"\"!important;\n    position: absolute!important;\n    top: 0!important;\n    left: 0!important;\n    width: 100%!important;\n    height: 100%!important;\n    background-color: #292929!important;\n    z-index: -1!important;\n  }\n.quotesYou.opContainer, :root.tomorrow.highlight-you .quotesYou .reply {\n    border-left: 3px solid rgba(11, 77, 43, .8);\n}\n.quotesYou > .reply {\n    border-left: 3px solid rgba(11, 77, 43, .8) !important;\n}\n.yourPost.opContainer, :root.tomorrow.highlight-own .yourPost .reply {\n    border-left: 3px dashed rgba(11, 77, 43, .8);\n}\n.yourPost > .reply {\n    border-left: 3px dashed rgba(11, 77, 43, .8) !important;\n}",
+    "Toggle board list": "Ctrl+b",
+    "Toggle header": "Shift+h",
+    "Open empty QR": "q",
+    "Open QR": "Shift+q",
+    "Open settings": "Alt+o",
+    "Close": "Esc",
+    "Spoiler tags": "Ctrl+s",
+    "Code tags": "Alt+c",
+    "Eqn tags": "Alt+e",
+    "Math tags": "Alt+m",
+    "SJIS tags": "Alt+a",
+    "Toggle sage": "Alt+s",
+    "Toggle Cooldown": "Alt+Comma",
+    "Post from URL": "Alt+l",
+    "Add new post": "Alt+n",
+    "Submit QR": "Ctrl+Enter",
+    "Watch": "w",
+    "Update": "r",
+    "Update thread watcher": "Shift+r",
+    "Toggle thread watcher": "t",
+    "Toggle threading": "Shift+t",
+    "Mark thread read": "Ctrl+0",
+    "Expand image": "Shift+e",
+    "Expand images": "e",
+    "Open Gallery": "g",
+    "Next Gallery Image": "Right",
+    "Previous Gallery Image": "Left",
+    "Advance Gallery": "Enter",
+    "Pause": "p",
+    "Slideshow": "Ctrl+Right",
+    "Rotate image clockwise": "Shift+Right",
+    "Rotate image anticlockwise": "Shift+Left",
+    "Download Gallery Image": "Shift+j",
+    "fappeTyme": "f",
+    "werkTyme": "Shift+w",
+    "Front page": "1",
+    "Open front page": "Shift+1",
+    "Next page": "Ctrl+Right",
+    "Previous page": "Ctrl+Left",
+    "Paged mode": "Alt+1",
+    "Infinite scrolling mode": "Alt+2",
+    "All pages mode": "Alt+3",
+    "Open catalog": "Shift+c",
+    "Search form": "Ctrl+Alt+s",
+    "Cycle sort type": "Alt+x",
+    "Next thread": "Ctrl+Down",
+    "Previous thread": "Ctrl+Up",
+    "Expand thread": "Ctrl+e",
+    "Open thread": "o",
+    "Open thread tab": "Shift+o",
+    "Next reply": "j",
+    "Previous reply": "k",
+    "Deselect reply": "Shift+d",
+    "Hide": "x",
+    "Quick Filter MD5": "5",
+    "Previous Post Quoting You": "Alt+Up",
+    "Next Post Quoting You": "Alt+Down",
+    "Beep": false,
+    "Beep Quoting You": false,
+    "Auto Scroll": true,
+    "Bottom Scroll": true,
+    "Scroll BG": false,
+    "Auto Update": true,
+    "Optional Increase": false,
+    "Interval": "15",
+    "customCooldown": 0,
+    "customCooldownEnabled": true,
+    "Thread Quotes": false,
+    "Max Replies": 1000,
+    "Autohiding Scrollbar": false,
+    "embedding.position": "top: 50px; right: 0px;",
+    "thread-stats.position": "bottom: 0px; right: 0px;",
+    "updater.position": "bottom: 0px; left: 0px;",
+    "thread-watcher.position": "top: 30.3906px; left: 0px;",
+    "qr.position": "top: 30.3906px; left: 60.4458%;",
+    "fourchanImageHost": "i.4cdn.org",
+    "hiddenPSAList": {},
+    "knownBanners": "0.jpg,1.jpg,2.jpg,4.jpg,6.jpg,7.jpg,8.jpg,9.jpg,10.jpg,11.jpg,12.jpg,13.jpg,14.jpg,16.jpg,17.jpg,18.jpg,19.jpg,20.jpg,21.jpg,22.jpg,24.jpg,25.jpg,26.jpg,28.jpg,29.jpg,33.jpg,38.jpg,39.jpg,43.jpg,44.jpg,45.jpg,46.jpg,47.jpg,52.jpg,54.jpg,57.jpg,59.jpg,60.jpg,61.jpg,64.jpg,66.jpg,67.jpg,69.jpg,71.jpg,72.jpg,76.jpg,77.jpg,81.jpg,82.jpg,83.jpg,84.jpg,88.jpg,90.jpg,91.jpg,96.jpg,98.jpg,99.jpg,100.jpg,104.jpg,106.jpg,116.jpg,119.jpg,137.jpg,140.jpg,148.jpg,149.jpg,150.jpg,154.jpg,156.jpg,157.jpg,158.jpg,159.jpg,161.jpg,162.jpg,164.jpg,165.jpg,166.jpg,167.jpg,168.jpg,169.jpg,170.jpg,171.jpg,172.jpg,173.jpg,174.jpg,175.jpg,176.jpg,178.jpg,179.jpg,180.jpg,181.jpg,182.jpg,183.jpg,186.jpg,189.jpg,190.jpg,192.jpg,193.jpg,194.jpg,197.jpg,198.jpg,200.jpg,201.jpg,202.jpg,203.jpg,205.jpg,206.jpg,207.jpg,208.jpg,210.jpg,213.jpg,214.jpg,215.jpg,216.jpg,218.jpg,219.jpg,220.jpg,221.jpg,222.jpg,223.jpg,224.jpg,227.jpg,0.png,1.png,2.png,3.png,5.png,6.png,9.png,10.png,11.png,12.png,14.png,16.png,19.png,20.png,21.png,22.png,23.png,24.png,26.png,27.png,28.png,29.png,30.png,31.png,32.png,33.png,34.png,37.png,39.png,40.png,41.png,42.png,43.png,44.png,45.png,48.png,49.png,50.png,51.png,52.png,53.png,57.png,58.png,59.png,64.png,66.png,67.png,68.png,69.png,70.png,71.png,72.png,76.png,78.png,79.png,81.png,82.png,85.png,86.png,87.png,89.png,95.png,98.png,100.png,101.png,102.png,105.png,106.png,107.png,109.png,110.png,111.png,112.png,113.png,114.png,115.png,116.png,118.png,119.png,120.png,121.png,122.png,123.png,126.png,128.png,130.png,134.png,136.png,138.png,139.png,140.png,142.png,145.png,146.png,149.png,150.png,151.png,152.png,153.png,154.png,155.png,156.png,157.png,158.png,159.png,160.png,163.png,164.png,165.png,166.png,167.png,168.png,169.png,170.png,171.png,172.png,173.png,174.png,178.png,179.png,180.png,181.png,182.png,184.png,186.png,188.png,190.png,192.png,193.png,194.png,195.png,196.png,197.png,198.png,200.png,202.png,203.png,205.png,206.png,207.png,209.png,212.png,213.png,214.png,216.png,217.png,218.png,219.png,220.png,221.png,222.png,223.png,224.png,225.png,226.png,229.png,231.png,232.png,233.png,234.png,235.png,237.png,238.png,239.png,240.png,241.png,242.png,244.png,245.png,246.png,247.png,248.png,249.png,250.png,253.png,254.png,255.png,256.png,257.png,258.png,259.png,260.png,262.png,268.png,0.gif,1.gif,2.gif,3.gif,4.gif,5.gif,6.gif,7.gif,8.gif,9.gif,10.gif,12.gif,13.gif,14.gif,15.gif,16.gif,18.gif,19.gif,20.gif,21.gif,22.gif,23.gif,24.gif,28.gif,29.gif,30.gif,33.gif,34.gif,35.gif,36.gif,37.gif,39.gif,40.gif,42.gif,44.gif,45.gif,46.gif,48.gif,50.gif,52.gif,54.gif,55.gif,57.gif,58.gif,59.gif,60.gif,61.gif,63.gif,64.gif,66.gif,67.gif,68.gif,69.gif,70.gif,72.gif,73.gif,75.gif,76.gif,77.gif,78.gif,80.gif,81.gif,82.gif,83.gif,86.gif,87.gif,88.gif,92.gif,93.gif,94.gif,95.gif,96.gif,97.gif,98.gif,99.gif,100.gif,101.gif,102.gif,103.gif,104.gif,105.gif,106.gif,108.gif,109.gif,110.gif,111.gif,112.gif,113.gif,115.gif,116.gif,117.gif,118.gif,119.gif,120.gif,122.gif,123.gif,124.gif,127.gif,129.gif,130.gif,131.gif,134.gif,135.gif,136.gif,138.gif,139.gif,141.gif,144.gif,146.gif,148.gif,149.gif,153.gif,154.gif,155.gif,157.gif,158.gif,159.gif,160.gif,161.gif,162.gif,164.gif,166.gif,167.gif,168.gif,169.gif,170.gif,171.gif,172.gif,173.gif,174.gif,175.gif,176.gif,177.gif,178.gif,181.gif,182.gif,183.gif,185.gif,186.gif,187.gif,188.gif,189.gif,190.gif,191.gif,192.gif,193.gif,195.gif,196.gif,197.gif,200.gif,201.gif,202.gif,203.gif,204.gif,205.gif,206.gif,207.gif,208.gif,209.gif,210.gif,211.gif,212.gif,213.gif,214.gif,215.gif,216.gif,217.gif,219.gif,220.gif,221.gif,222.gif,224.gif,225.gif,226.gif,227.gif,228.gif,230.gif,232.gif,233.gif,234.gif,235.gif,238.gif,240.gif,241.gif,243.gif,244.gif,245.gif,246.gif,247.gif,249.gif,250.gif,251.gif,253.gif",
+    "passMessageClosed": false,
+    "Prerequest Captcha": false,
+    "PSAseen": [],
+    "hiddenThreads": {
+      "4chan.org": {
+        "boards": {},
+        "lastChecked": 1662132419789
+      }
+    },
+    "hiddenPosts": {
+      "4chan.org": {
+        "boards": {},
+        "lastChecked": 1644765709824
+      },
+      "version": 1
+    },
+    "lastReadPosts": {
+      "4chan.org": {
+        "boards": {
+          "lgbt": {
+            "27354333": 27354590,
+            "27388516": 27388516
+          },
+          "soc": {
+            "17318579": 17318579
+          },
+          "t": {
+            "521528": 521528
+          },
+          "wg": {
+            "7883574": 7883610
+          }
+        },
+        "lastChecked": 1662132419796
+      },
+      "version": 6978
+    },
+    "yourPosts": {
+      "4chan.org": {
+        "boards": {},
+        "lastChecked": 1662054705820
+      },
+      "version": 266
+    },
+    "watchedThreads": {
+      "4chan.org": {
+        "boards": {
+          "b": {
+            "875671244": {
+              "excerpt": "/b/ - Place thread // Last thread: https://archive.wakarimasen.moe/b/t...",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 350
+            },
+            "875682623": {
+              "excerpt": "/b/ - OPERATION YOTSUBA // COORDINATES: (1940, 550) // Convert the str...",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 332
+            },
+            "875685638": {
+              "excerpt": "/b/ - OPERATION YOTSUBA // COORDINATES: (1940, 550) // Convert the str...",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 82
+            }
+          },
+          "g": {
+            "85782244": {
+              "excerpt": "/g/ - Why are there so many trans programmers? Honest question",
+              "isDead": true,
+              "replies": 91
+            },
+            "85787484": {
+              "excerpt": "/g/ - Is working in cybersecurity a meme?",
+              "isArchived": true,
+              "isDead": true,
+              "last": 85803044,
+              "quotingYou": 0,
+              "replies": 95,
+              "unread": 0
+            },
+            "85818311": {
+              "excerpt": "/g/ - /iemg/ & /pmp/ - In-Ear Monitor & Portable Music Player General",
+              "isArchived": true,
+              "isDead": true,
+              "last": 85859543,
+              "quotingYou": 0,
+              "replies": 329,
+              "unread": 0
+            },
+            "85867336": {
+              "excerpt": "/g/ - /pmpg/ /iemg/",
+              "isArchived": true,
+              "isDead": true,
+              "last": 85905470,
+              "quotingYou": 0,
+              "replies": 312,
+              "unread": 0
+            },
+            "85902707": {
+              "excerpt": "/g/ - do femboys expire after 25? what technology would prolong it?",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 29
+            },
+            "85905461": {
+              "excerpt": "/g/ - /pmpg/ /iemg/",
+              "isArchived": true,
+              "isDead": true,
+              "last": 85948665,
+              "quotingYou": 0,
+              "replies": 326,
+              "unread": 0
+            },
+            "86004588": {
+              "excerpt": "/g/ - /iemg/ & /pmp/ - In-Ear Monitor & Portable Music Player General",
+              "isArchived": true,
+              "isDead": true,
+              "last": 86058963,
+              "quotingYou": 0,
+              "replies": 313,
+              "unread": 0
+            },
+            "86110678": {
+              "excerpt": "/g/ - /iemg/ & /pmp/ - In-Ear Monitor & Portable Music Player General",
+              "isArchived": true,
+              "isDead": true,
+              "last": 86159633,
+              "quotingYou": 0,
+              "replies": 319,
+              "unread": 0
+            },
+            "86124155": {
+              "excerpt": "/g/ - /LG/ - Lamp General",
+              "isArchived": true,
+              "isDead": true,
+              "last": 86130330,
+              "quotingYou": 0,
+              "replies": 14,
+              "unread": 0
+            },
+            "86433273": {
+              "excerpt": "/g/ - A friend gave me his rode podmic for free because he upgraded to...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 86436528,
+              "quotingYou": 0,
+              "replies": 8,
+              "unread": 0
+            },
+            "86554039": {
+              "excerpt": "/g/ - .",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 29
+            },
+            "87205972": {
+              "excerpt": "/g/ - You CAN solve this easy leetcode question, right /g/? // >Babby ...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 87210444,
+              "quotingYou": 0,
+              "replies": 312,
+              "unread": 0
+            },
+            "87472298": {
+              "excerpt": "/g/ - /dmp/ - Digital Music Production",
+              "isArchived": true,
+              "isDead": true,
+              "last": 87530125,
+              "modified": 1656421364,
+              "quotingYou": 0,
+              "replies": 267,
+              "unread": 56
+            },
+            "87517570": {
+              "excerpt": "/g/ - How do I install gentoo?",
+              "isArchived": true,
+              "isDead": true,
+              "last": 87519538,
+              "quotingYou": 0,
+              "replies": 9,
+              "unread": 0
+            },
+            "87785984": {
+              "excerpt": "/g/ - >first OS // >favourite OS // >current OS // >age // I'll start:...",
+              "isDead": true,
+              "replies": 283
+            }
+          },
+          "lgbt": {
+            "24441493": {
+              "excerpt": "/lgbt/ - What do we THINK of finnster?",
+              "isDead": true,
+              "last": 24450789,
+              "replies": 193
+            },
+            "24450858": {
+              "excerpt": "/lgbt/ - /femgen/ - femboy general",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24502529,
+              "quotingYou": 0,
+              "replies": 141,
+              "unread": 0
+            },
+            "24458427": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24492204,
+              "quotingYou": 0,
+              "replies": 313,
+              "unread": 0
+            },
+            "24471515": {
+              "excerpt": "/lgbt/ - F1nn",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24492189,
+              "quotingYou": 0,
+              "replies": 327,
+              "unread": 0
+            },
+            "24500930": {
+              "excerpt": "/lgbt/ - how did this chubby bong manage to get thousands of simps wil...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24518038,
+              "quotingYou": 0,
+              "replies": 327,
+              "unread": 0
+            },
+            "24517650": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24544690,
+              "quotingYou": 0,
+              "replies": 324,
+              "unread": 0
+            },
+            "24543733": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24574919,
+              "quotingYou": 0,
+              "replies": 362,
+              "unread": 0
+            },
+            "24574064": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24604710,
+              "quotingYou": 0,
+              "replies": 311,
+              "unread": 0
+            },
+            "24604701": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24631937,
+              "quotingYou": 0,
+              "replies": 314,
+              "unread": 0
+            },
+            "24631929": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24668269,
+              "quotingYou": 0,
+              "replies": 326,
+              "unread": 0
+            },
+            "24663843": {
+              "excerpt": "/lgbt/ - /tttt/ bedroom thread",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24679770,
+              "quotingYou": 0,
+              "replies": 181,
+              "unread": 0
+            },
+            "24666240": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24700609,
+              "quotingYou": 0,
+              "replies": 330,
+              "unread": 0
+            },
+            "24700603": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24735835,
+              "quotingYou": 0,
+              "replies": 322,
+              "unread": 0
+            },
+            "24740878": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24748589,
+              "modified": 1646527784,
+              "quotingYou": 0,
+              "replies": 62,
+              "unread": 0
+            },
+            "24750893": {
+              "excerpt": "/lgbt/ - Guy cucked out on buying actual guns by buying BBs has watere...",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 79
+            },
+            "24756349": {
+              "excerpt": "/lgbt/ - Femboy Appreciation",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24759343,
+              "quotingYou": 0,
+              "replies": 23,
+              "unread": 9
+            },
+            "24772341": {
+              "excerpt": "/lgbt/ - Is he trooning out?",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 76
+            },
+            "24828677": {
+              "excerpt": "/lgbt/ - Femboys, crossdressers, etc.",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24876720,
+              "quotingYou": 0,
+              "replies": 314,
+              "unread": 0
+            },
+            "24850961": {
+              "excerpt": "/lgbt/ - Is this person on HRT?",
+              "isArchived": true,
+              "isDead": true,
+              "last": 24862543,
+              "quotingYou": 0,
+              "replies": 29,
+              "unread": 0
+            },
+            "24895628": {
+              "excerpt": "/lgbt/ - Dont ever get memed into thinking you're anything else than a...",
+              "isDead": true,
+              "last": 24899624,
+              "replies": 14
+            },
+            "24985668": {
+              "excerpt": "/lgbt/ - how do any of you find this angles dependent bitch attractive?",
+              "isArchived": true,
+              "isDead": true,
+              "last": 25031019,
+              "quotingYou": 0,
+              "replies": 336,
+              "unread": 0
+            },
+            "25031005": {
+              "excerpt": "/lgbt/ - why does this average looking bong have so many simps here? c...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 25075088,
+              "quotingYou": 0,
+              "replies": 224,
+              "unread": 130
+            },
+            "25088589": {
+              "excerpt": "/lgbt/ - This is how my ideal submissive femme husband looks like. You...",
+              "isDead": true,
+              "last": 25139388,
+              "replies": 202
+            },
+            "25186782": {
+              "excerpt": "/lgbt/ - Why can’t trannies look like this?",
+              "isDead": true,
+              "replies": 183
+            },
+            "25293949": {
+              "excerpt": "/lgbt/ - did \" he \" finally take the pink pill ?",
+              "isDead": true,
+              "replies": 46
+            },
+            "25300531": {
+              "excerpt": "/lgbt/ - The face of a straight cis male",
+              "isArchived": true,
+              "isDead": true,
+              "last": 25316936,
+              "quotingYou": 0,
+              "replies": 86,
+              "unread": 0
+            },
+            "25325376": {
+              "excerpt": "/lgbt/ - Face is the only thing that matters for passing",
+              "isArchived": true,
+              "isDead": true,
+              "last": 25336989,
+              "quotingYou": 0,
+              "replies": 99,
+              "unread": 0
+            },
+            "25369941": {
+              "excerpt": "/lgbt/ - >literally wears abdl fetish clothes // Did she take the diap...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 25375064,
+              "quotingYou": 0,
+              "replies": 38,
+              "unread": 0
+            },
+            "25373604": {
+              "excerpt": "/lgbt/ - AGP",
+              "isDead": true,
+              "replies": 89
+            },
+            "25461204": {
+              "excerpt": "/lgbt/ - Hooking up soon, advice?",
+              "isDead": true,
+              "last": 25466449,
+              "replies": 31
+            },
+            "26177652": {
+              "excerpt": "/lgbt/ - why are right wingers so obsessed with him? He's got constant...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 26200737,
+              "quotingYou": 0,
+              "replies": 137,
+              "unread": 0
+            },
+            "26319680": {
+              "excerpt": "/lgbt/ - What ever happened to femgen",
+              "isArchived": true,
+              "isDead": true,
+              "last": 26329151,
+              "quotingYou": 0,
+              "replies": 37,
+              "unread": 0
+            },
+            "26337155": {
+              "excerpt": "/lgbt/ - >I will never be as cute as Luka // Why live?",
+              "isArchived": true,
+              "isDead": true,
+              "last": 26338716,
+              "quotingYou": 0,
+              "replies": 19,
+              "unread": 0
+            },
+            "26339314": {
+              "excerpt": "/lgbt/ - >be fairly unknown minecraft youtuber // >discover you pass w...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 26343461,
+              "quotingYou": 0,
+              "replies": 135,
+              "unread": 0
+            },
+            "26403659": {
+              "excerpt": "/lgbt/ - it's gay month. she will come out won't she?",
+              "isArchived": true,
+              "isDead": true,
+              "last": 26434232,
+              "quotingYou": 0,
+              "replies": 164,
+              "unread": 0
+            },
+            "26412113": {
+              "excerpt": "/lgbt/ - Look at this hooker",
+              "isArchived": true,
+              "isDead": true,
+              "last": 26419586,
+              "quotingYou": 0,
+              "replies": 57,
+              "unread": 0
+            },
+            "26448771": {
+              "excerpt": "/lgbt/ - what's the end game of being a cishet guy who dresses up for ...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 26458660,
+              "quotingYou": 0,
+              "replies": 105,
+              "unread": 0
+            },
+            "26497157": {
+              "excerpt": "/lgbt/ - why does this closet tranny still pretend to be upset over th...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 26547469,
+              "quotingYou": 0,
+              "replies": 302,
+              "unread": 0
+            },
+            "26608940": {
+              "excerpt": "/lgbt/ - is this image real? :0 did she crack? i hope she goes on hrt ...",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 159
+            },
+            "27055729": {
+              "excerpt": "/lgbt/ - Is it possible to out-AGP him?",
+              "isArchived": true,
+              "isDead": true,
+              "last": 27091668,
+              "quotingYou": 0,
+              "replies": 168,
+              "unread": 0
+            },
+            "27194111": {
+              "excerpt": "/lgbt/ - It’s so unfair that his genetics went to a cis man instead of...",
+              "isArchived": true,
+              "isDead": true,
+              "last": 27213554,
+              "quotingYou": 0,
+              "replies": 90,
+              "unread": 0
+            },
+            "27264099": {
+              "excerpt": "/lgbt/ - I’m a bottom and I’m tired of pretending I’m not",
+              "isArchived": true,
+              "isDead": true,
+              "last": 27276704,
+              "quotingYou": 0,
+              "replies": 21,
+              "unread": 12
+            }
+          },
+          "trash": {
+            "46917836": {
+              "excerpt": "/trash/ - The face of a straight cis male",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 91
+            },
+            "46983134": {
+              "excerpt": "/trash/ - This is a 21 year old non-estrogenized british male",
+              "isDead": true,
+              "replies": 123
+            },
+            "47254623": {
+              "excerpt": "/trash/ - Just gonna make another thread dedicated to Rose cus why not",
+              "isDead": true,
+              "replies": 224
+            },
+            "48635337": {
+              "excerpt": "/trash/ - >be fairly unknown minecraft youtuber // >discover you pass ...",
+              "isDead": true,
+              "quotingYou": 0,
+              "replies": 159
+            }
+          }
+        }
+      },
+      "lastChecked": 1662144974158,
+      "lastChecked2": 1662140852311,
+      "version": 8741
+    },
+    "watcherLastModified": {
+      "4chan.org": {
+        "boards": {
+          "b": {
+            "https://a.4cdn.org/b/threads.json": "Mon, 04 Apr 2022 19:28:26 GMT"
+          },
+          "g": {
+            "https://a.4cdn.org/g/threads.json": "Sun, 24 Jul 2022 20:14:30 GMT"
+          },
+          "lgbt": {
+            "https://a.4cdn.org/lgbt/threads.json": "Sat, 20 Aug 2022 12:43:10 GMT"
+          },
+          "trash": {
+            "https://a.4cdn.org/trash/threads.json": "Wed, 22 Jun 2022 14:19:03 GMT"
+          }
+        }
+      },
+      "version": 1729
+    },
+    "customTitles": {
+      "4chan.org": {
+        "boards": {
+          "qa": {
+            "boardTitle": {
+              "orig": "/qa/ - Question & Answer",
+              "title": "/qa/ - 2D/Random"
+            }
+          }
+        }
+      }
+    },
+    "archives": [
+      {
+        "boards": [
+          "adv",
+          "f",
+          "hr",
+          "mlpol",
+          "mo",
+          "o",
+          "pol",
+          "s4s",
+          "sp",
+          "tg",
+          "trv",
+          "tv",
+          "x"
+        ],
+        "domain": "archive.4plebs.org",
+        "files": [
+          "adv",
+          "f",
+          "hr",
+          "mlpol",
+          "mo",
+          "o",
+          "pol",
+          "s4s",
+          "sp",
+          "tg",
+          "trv",
+          "tv",
+          "x"
+        ],
+        "http": true,
+        "https": true,
+        "name": "4plebs",
+        "reports": true,
+        "software": "foolfuuka",
+        "uid": 3
+      },
+      {
+        "boards": [
+          "3",
+          "biz",
+          "cgl",
+          "ck",
+          "diy",
+          "fa",
+          "ic",
+          "jp",
+          "lit",
+          "sci",
+          "vr",
+          "vt"
+        ],
+        "domain": "warosu.org",
+        "files": [
+          "3",
+          "biz",
+          "cgl",
+          "ck",
+          "diy",
+          "fa",
+          "ic",
+          "jp",
+          "lit",
+          "sci",
+          "vr",
+          "vt"
+        ],
+        "http": false,
+        "https": true,
+        "name": "warosu",
+        "search": [
+          "biz",
+          "cgl",
+          "ck",
+          "diy",
+          "fa",
+          "ic",
+          "jp",
+          "lit",
+          "sci",
+          "vr",
+          "vt"
+        ],
+        "software": "fuuka",
+        "uid": 10
+      },
+      {
+        "boards": [
+          "a",
+          "aco",
+          "an",
+          "c",
+          "cgl",
+          "co",
+          "d",
+          "fit",
+          "g",
+          "his",
+          "int",
+          "k",
+          "m",
+          "mlp",
+          "mu",
+          "q",
+          "qa",
+          "r9k",
+          "tg",
+          "trash",
+          "vr",
+          "wsg"
+        ],
+        "domain": "desuarchive.org",
+        "files": [
+          "a",
+          "aco",
+          "an",
+          "c",
+          "cgl",
+          "co",
+          "d",
+          "fit",
+          "g",
+          "his",
+          "int",
+          "k",
+          "m",
+          "mlp",
+          "mu",
+          "q",
+          "qa",
+          "r9k",
+          "tg",
+          "trash",
+          "vr",
+          "wsg"
+        ],
+        "http": true,
+        "https": true,
+        "name": "Desuarchive",
+        "reports": true,
+        "software": "foolfuuka",
+        "uid": 23
+      },
+      {
+        "boards": [
+          "cm",
+          "co",
+          "ic",
+          "sci",
+          "tg",
+          "vip",
+          "y"
+        ],
+        "domain": "boards.fireden.net",
+        "files": [
+          "cm",
+          "co",
+          "ic",
+          "sci",
+          "tg",
+          "vip",
+          "y"
+        ],
+        "http": false,
+        "https": true,
+        "name": "fireden.net",
+        "search": [
+          "cm",
+          "co",
+          "ic",
+          "sci",
+          "tg",
+          "y"
+        ],
+        "software": "foolfuuka",
+        "uid": 24
+      },
+      {
+        "boards": [
+          "g",
+          "mlp",
+          "qb",
+          "v",
+          "vg",
+          "vm",
+          "vmg",
+          "vp",
+          "vrpg",
+          "vst"
+        ],
+        "domain": "arch.b4k.co",
+        "files": [
+          "qb",
+          "v",
+          "vg",
+          "vm",
+          "vmg",
+          "vp",
+          "vrpg",
+          "vst"
+        ],
+        "http": true,
+        "https": true,
+        "name": "arch.b4k.co",
+        "search": [
+          "qb",
+          "v",
+          "vg",
+          "vm",
+          "vmg",
+          "vp",
+          "vrpg",
+          "vst"
+        ],
+        "software": "foolfuuka",
+        "uid": 25
+      },
+      {
+        "boards": [
+          "3",
+          "a",
+          "aco",
+          "adv",
+          "an",
+          "asp",
+          "b",
+          "bant",
+          "biz",
+          "c",
+          "can",
+          "cgl",
+          "ck",
+          "cm",
+          "co",
+          "cock",
+          "con",
+          "d",
+          "diy",
+          "e",
+          "f",
+          "fa",
+          "fap",
+          "fit",
+          "fitlit",
+          "g",
+          "gd",
+          "gif",
+          "h",
+          "hc",
+          "his",
+          "hm",
+          "hr",
+          "i",
+          "ic",
+          "int",
+          "jp",
+          "k",
+          "lgbt",
+          "lit",
+          "m",
+          "mlp",
+          "mlpol",
+          "mo",
+          "mtv",
+          "mu",
+          "n",
+          "news",
+          "o",
+          "out",
+          "outsoc",
+          "p",
+          "po",
+          "pol",
+          "pw",
+          "q",
+          "qa",
+          "qb",
+          "qst",
+          "r",
+          "r9k",
+          "s",
+          "s4s",
+          "sci",
+          "soc",
+          "sp",
+          "spa",
+          "t",
+          "tg",
+          "toy",
+          "trash",
+          "trv",
+          "tv",
+          "u",
+          "v",
+          "vg",
+          "vint",
+          "vip",
+          "vmg",
+          "vp",
+          "vr",
+          "vrpg",
+          "vt",
+          "w",
+          "wg",
+          "wsg",
+          "wsr",
+          "x",
+          "xs",
+          "y"
+        ],
+        "domain": "archived.moe",
+        "files": [
+          "can",
+          "cock",
+          "con",
+          "fap",
+          "fitlit",
+          "gd",
+          "mlpol",
+          "mo",
+          "mtv",
+          "outsoc",
+          "po",
+          "q",
+          "qb",
+          "qst",
+          "spa",
+          "vint",
+          "vip"
+        ],
+        "http": true,
+        "https": true,
+        "name": "Archived.Moe",
+        "reports": true,
+        "search": [
+          "aco",
+          "adv",
+          "an",
+          "asp",
+          "b",
+          "bant",
+          "biz",
+          "c",
+          "can",
+          "cgl",
+          "ck",
+          "cm",
+          "cock",
+          "con",
+          "d",
+          "diy",
+          "e",
+          "f",
+          "fap",
+          "fitlit",
+          "gd",
+          "gif",
+          "h",
+          "hc",
+          "his",
+          "hm",
+          "hr",
+          "i",
+          "ic",
+          "lgbt",
+          "lit",
+          "mlpol",
+          "mo",
+          "mtv",
+          "n",
+          "news",
+          "o",
+          "out",
+          "outsoc",
+          "p",
+          "po",
+          "q",
+          "qa",
+          "qst",
+          "r",
+          "s",
+          "soc",
+          "spa",
+          "trv",
+          "u",
+          "vint",
+          "vip",
+          "vrpg",
+          "w",
+          "wg",
+          "wsg",
+          "wsr",
+          "x",
+          "y"
+        ],
+        "software": "foolfuuka",
+        "uid": 29
+      },
+      {
+        "boards": [
+          "b",
+          "bant"
+        ],
+        "domain": "thebarchive.com",
+        "files": [
+          "b",
+          "bant"
+        ],
+        "http": true,
+        "https": true,
+        "name": "TheBArchive.com",
+        "reports": true,
+        "software": "foolfuuka",
+        "uid": 30
+      },
+      {
+        "boards": [
+          "h",
+          "hc",
+          "hm",
+          "i",
+          "lgbt",
+          "r",
+          "s",
+          "soc",
+          "t",
+          "u"
+        ],
+        "domain": "archiveofsins.com",
+        "files": [
+          "h",
+          "hc",
+          "hm",
+          "i",
+          "lgbt",
+          "r",
+          "s",
+          "soc",
+          "t",
+          "u"
+        ],
+        "http": true,
+        "https": true,
+        "name": "Archive Of Sins",
+        "reports": true,
+        "software": "foolfuuka",
+        "uid": 31
+      },
+      {
+        "boards": [
+          "a",
+          "c",
+          "g",
+          "jp",
+          "mu",
+          "r9k",
+          "vp",
+          "vrpg",
+          "vt"
+        ],
+        "domain": "www.tokyochronos.net",
+        "files": [
+          "a",
+          "c",
+          "g",
+          "jp",
+          "mu",
+          "r9k",
+          "vp",
+          "vrpg",
+          "vt"
+        ],
+        "http": false,
+        "https": true,
+        "name": "TokyoChronos",
+        "reports": true,
+        "software": "foolfuuka",
+        "uid": 34
+      },
+      {
+        "boards": [
+          "bant",
+          "c",
+          "con",
+          "e",
+          "i",
+          "n",
+          "news",
+          "out",
+          "p",
+          "pw",
+          "qst",
+          "toy",
+          "vip",
+          "vp",
+          "vt",
+          "w",
+          "wg",
+          "wsr"
+        ],
+        "domain": "archive.alice.al",
+        "files": [
+          "bant",
+          "c",
+          "e",
+          "i",
+          "n",
+          "news",
+          "out",
+          "p",
+          "pw",
+          "qst",
+          "toy",
+          "vip",
+          "vp",
+          "vt",
+          "w",
+          "wg",
+          "wsr"
+        ],
+        "http": false,
+        "https": true,
+        "name": "Rozen Arcana",
+        "reports": true,
+        "software": "foolfuuka",
+        "uid": 36
+      }
+    ],
+    "selectedArchives": {},
+    "cooldowns": {
+      "b": {
+        "1649097187031": {
+          "postID": 875685741,
+          "threadID": 875685638
+        }
+      },
+      "g": {
+        "1658160268882": {
+          "postID": 87786119,
+          "threadID": 87785984
+        }
+      },
+      "lgbt": {
+        "1660933311297": {
+          "postID": 27268634,
+          "threadID": 27264099
+        }
+      },
+      "trash": {
+        "1655654365724": {
+          "postID": 48647625,
+          "threadID": 48635337
+        }
+      }
+    },
+    "Index Sort": {
+      "g": "bump",
+      "lgbt": "bump",
+      "soc": "birth"
+    },
+    "Last Long Reply Thresholds 0": {},
+    "Last Long Reply Thresholds 1": {},
+    "siteProperties": {
+      "4chan.org": {
+        "software": "yotsuba"
+      },
+      "4channel.org": {
+        "canonical": "4chan.org"
+      },
+      "4cdn.org": {
+        "canonical": "4chan.org"
+      },
+      "notso.smuglo.li": {
+        "canonical": "smuglo.li"
+      },
+      "smugloli.net": {
+        "canonical": "smuglo.li"
+      },
+      "smug.nepu.moe": {
+        "canonical": "smuglo.li"
+      }
+    },
+    "Except Archives from Encryption": false,
+    "JSON Navigation": true,
+    "Oekaki Links": true,
+    "Show Name and Subject": false,
+    "QR Shortcut": true,
+    "Bottom QR Link": true,
+    "Toggleable Thread Watcher": true,
+    "siteSoftware": "",
+    "Use Faster Image Host": "true",
+    "Captcha Fixes": true,
+    "captchaServiceDomain": "",
+    "captchaServiceKey": {}
+  }
+}
